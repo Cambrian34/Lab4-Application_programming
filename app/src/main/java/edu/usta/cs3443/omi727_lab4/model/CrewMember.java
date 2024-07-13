@@ -50,7 +50,8 @@ public class CrewMember {
     }
 
     /**
-     * @return
+     *
+     * @return name
      */
     public String getName() {
         return name;
@@ -64,7 +65,7 @@ public class CrewMember {
     }
 
     /**
-     * @return
+     * @return position
      */
     public String getPosition() {
         return position;
@@ -92,7 +93,7 @@ public class CrewMember {
     }
 
     /**
-     * @return
+     * @return species
      */
     public String getSpecies() {
         return Species;
@@ -106,7 +107,7 @@ public class CrewMember {
     }
 
     /**
-     * @return
+     * @return assignment
      */
     public String getAssignment() {
         return Assignment;
@@ -121,7 +122,7 @@ public class CrewMember {
 
     /**
      *
-     * @return
+     * @return String representation of CrewMember
      */
     @Override
 
